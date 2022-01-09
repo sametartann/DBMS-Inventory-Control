@@ -125,9 +125,9 @@ INSERT INTO Inventory VALUES (390,'refrigerator', 'Arcelik', 'descC', '36444444'
 
 
 
-INSERT INTO Customer VALUES (123,'Samet', 'Artan', 5531515901, 'samet.artan', 'TR');
-INSERT INTO Customer VALUES (456,'Volkan', 'Nisanci', 5357485927, 'emre.nisanci', 'USA');
-INSERT INTO Customer VALUES (789,'Ali', 'Ure', 5446816559, 'aliberkay.ure', 'AZE');
+INSERT INTO Customer VALUES (123,'Samet', 'Artan', 5531234560, 'samet.artan', 'TR');
+INSERT INTO Customer VALUES (456,'Volkan', 'Nisanci', 53554321, 'emre.nisanci', 'USA');
+INSERT INTO Customer VALUES (789,'Ali', 'Ure', 544567213, 'aliberkay.ure', 'AZE');
 
 
 
